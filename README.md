@@ -1,5 +1,5 @@
 # 🧩 Sudoku em Java
-Bem-vindo ao Sudoku em Java! 🟩🔲 Este projeto oferece uma implementação simples de um jogo de Sudoku no terminal. Você pode interagir com o tabuleiro, inserir e remover números, verificar a validade do jogo e muito mais.
+Bem-vindo ao Sudoku em Java! 🎆 Este projeto oferece uma implementação simples de um jogo de Sudoku no terminal. Você pode interagir com o tabuleiro, inserir e remover números, verificar a validade do jogo e muito mais.
 
 ## Funcionalidades ✨
   - Iniciar um novo jogo: Comece uma nova partida com um tabuleiro inicial.
