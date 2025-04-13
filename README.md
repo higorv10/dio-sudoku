@@ -37,7 +37,7 @@ git clone https://github.com/higorv10/dio-sudoku.git
 cd dio-suoku
 ```
 
-2. Após clonar o repositório, localize o arquivo Main.java no seu diretório local:
+2. Após clonar o repositório, localize o arquivo `Main.java` no seu diretório local:
 
 ```css
 [CAMINHO_DO_REPOSITÓRIO]\src\sudoku\Main.java
