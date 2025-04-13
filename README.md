@@ -34,12 +34,13 @@ Siga os passos abaixo para rodar o jogo em sua máquina local:
 
 ```bash
 git clone https://github.com/higorv10/dio-sudoku.git
+cd dio-suoku
 ```
 
-2. Acesse o diretório do projeto:
+2. Após clonar o repositório, localize o arquivo Main.java no seu diretório local:
 
-```bash
-cd dio-sudoku/Sudoku/src
+```css
+[CAMINHO_DO_REPOSITÓRIO]\src\sudoku\Main.java
 ```
 3. Se estiver usando o terminal:
   - Compile os arquivos Java:
