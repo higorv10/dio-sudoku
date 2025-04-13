@@ -39,19 +39,29 @@ git clone https://github.com/higorv10/dio-sudoku.git
 2. Acesse o diretório do projeto:
 
 ```bash
-cd dio.sudoku
+cd dio-sudoku/Sudoku/src
 ```
-3. Compile o código:
-
+3. Se estiver usando o terminal:
+  - Compile os arquivos Java:
 ```bash
 javac sudoku/*.java
 ```
 
-4. Execute o jogo:
+  - Execute o jogo:
 
 ```bash
 java sudoku.Main
 ```
+
+4. 💡 Se estiver usando o Visual Studio Code:
+
+  - Abra a pasta src no VS Code
+
+  - Vá até o arquivo sudoku/Main.java
+
+  - Clique com o botão direito sobre ele e selecione "Run Java"
+
+  - O jogo será iniciado e exibido no terminal embutido do VS Code
 
 ## 🎮 Exemplo de Jogo 
 O jogo oferece um menu interativo onde o usuário pode escolher opções. Veja abaixo um exemplo de interação:
