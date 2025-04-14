@@ -98,4 +98,4 @@ Após essa ação, o número 5 será colocado na posição (3, 3) do tabuleiro, 
   - Scanner: Utilizado para interagir com o usuário via terminal.
 
 ## 📄 Licença
-Projeto desenvolvido para fins educacionais na DIO. Sem licença comercial.
+Desenvolvido durante o Bootcamp Bradesco Java Cloud Native na DIO para fins educacionais.
